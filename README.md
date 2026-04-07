@@ -1,52 +1,37 @@
 # Seth C.
 
-**`Computer Scientist (Cybersecurity with an interest in Development)`**
+**`Computer Scientist - Aspiring to be a Network Engineer or Network Administrator`**
 
-I am a recent graduate of Rider University holding a Bachelor's degree in Computer Science with a strong interest in IT, Software and Hardware, Networking, Cybersecurity, and Database Management. I am eager to build a firm technical foundation applying my knowledge and skills to the industry.
+<p style="text-align: center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" width="500" height="300">
+</p>
 
-<details>
-<summary><h2>More about me for the curious</h2></summary>
+Hey there, if you stumbled across my page via LinkedIn or found me through 3rd party, welcome! I want to be realistic and authentic as possible so people can get an idea of what I am like. About a year ago, I graduated from Rider University with a B.S. in Computer Science minoring in Cybersecurity. After graduation, I was left with a ton of time trying to figure out what I truly wanted. Today, I am still currently figuring out my path in IT and at some point I'd like to pursue my M.S. in Cyberseurity. I am thankful that I was able to meet new people, take on new opportunities, and grow as a person. Hopefully, I can take these soft skills and meet new people in the future.
 
-* Github has been something that I have been interested in since community college, however I never got the chance to sit down and explore the website. Currently, I'll use my time not only to explore, but to create new projects I have planned and update existing projects that I've already contributed to.
-* I thoroughly enjoy doing anything with networking (i.e Wireshark, port scanning), databasing (i.e. SQL), and automation (i.e shell scripting). 
-* Goals: make genuine human connections, join a workspace that's for the people
-* Industry interests: Healthcare, Space, Environment
+- Github has been something that I have been interested in since community college, however I never got the chance to sit down and explore the website. Currently, I'll use my time not only to explore, but to create new projects I have planned, update existing projects that I've already contributed to, or showcase lab work that relates to IT.
+- Networking is something I've always had a knack for and currently I am getting myself involved with it again. Knowing how routers and switches work, understanding the IP protocols, how packets can be received and read, and encryption methods (i.e. Diffie Hellman) peak my curiosity. Another thing that has got my attention is Quantum Computing.
+- Companies that I am interested in: Healthcare, Space, Gaming
 
-</details>
-
----
-
-### Connections
+## Connections
 [<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/curryseth)
 [<img align="left" alt="Bluesky" width="30px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" />](https://bsky.app/profile/sehtcy.bsky.social)
 <br />
 
-#
+## Certifications
+- uCertify Cryptography and Network Security, PenTesting Fundamentals
+- CompTIA Security+ (SY0-701) - ***Planned***
+- Cisco Certified Network Associate (CCNA) - ***Planned***
 
-### Operating Systems
+## Projects / Labs
+- [News Automation Bot for Discord](https://github.com/sehtcy/DiscordNews) - A Discord Bot for users to fetch news from a database → WIP
+- *More coming soon*
 
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="iOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-<br />
+## Skills
 
-#
+| Category | Skill |
+| -------- | ------- |
+| Networking    |GSN3, Cisco IOS, IPv4, IPv6, Subnetting |
+| Cybersecurity | Nmap, Wireshark, Cryptography, Sandboxing |
+| Programming   | Visual Studio Code, Python, Bash, Git, GitHub |
+| OS & Software | Microsoft Office, Google Workspace, Windows, Linux, Docker, VirtualBox |
 
-### Languages and Tools
-
-<img align="left" alt="Microsoft" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303589/office-1-logo.svg" />
-<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353811/google-drive.svg" />
-<img align="left" alt="GNS3" width="30px" style="padding-right:10px;" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ubuntu-20-04-en-los-ordenadores-del-instituto/icons/gns3.svg/@@images/ce9fcfc4-97a2-4ddf-b6f0-1a876af3f4be.svg" />
-<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<br />
-
-#
-
-### WIP Workspace
-* [News Automation Bot for Discord](https://github.com/sehtcy/DiscordNews) - A Discord Bot for users to fetch news from a database
