@@ -2,8 +2,8 @@
 
 **`Computer Scientist - Aspiring to be a Network Architect or Network Engineer`**
 
-<p style="text-align: center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" width="500" height="300">
+<p align="center">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
 Hey there, if you stumbled across my page via LinkedIn, found me through 3rd party, or from me personally sharing it, welcome to my digital portfolio! I want to be realistic and authentic as possible so people can get an idea of what I am like. About a year ago, I graduated from Rider University with a B.S. in Computer Science minoring in Cybersecurity. After graduation, I was left with a ton of time trying to figure out what I truly wanted. Today, I am still figuring out my path in IT with the goal to obtain an IT Help Desk role or IT Support Specialist role. In addition, I'd like to continue my education to achieve my M.S. in Cybersecurity. Throughout the years, I am thankful that I was able to meet new people, take on new opportunities, and grow as a person. What's most important to me is not only the position I would like to have, but having the soft skills to make stronger connections.
